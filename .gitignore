@@ -1,6 +1,9 @@
 Characters/*.fbx
 Characters/Brawler/*.fbx
 Characters/Healer/*.fbx
+Characters/Marksman/*.fbx
+Characters/*
+Characters/Mage/*.fbx
 *.log
 Dungeons/Saved/Logs/Dungeons.log
 Dungeons/Saved/Logs/Dungeons.log
@@ -8,3 +11,4 @@ Characters/Enemies/*.fbx
 Dungeons/Content/Weapon_Pack/*
 *.log
 Dungeons/Content/Weapons_Kit_BuiltData.uasset
+Dungeons/Content/InfinityBladeWeapons/*
