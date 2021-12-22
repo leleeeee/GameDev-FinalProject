@@ -1,9 +1,3 @@
-Characters/*.fbx
-Characters/Brawler/*.fbx
-Characters/Healer/*.fbx
-Characters/Marksman/*.fbx
-Characters/*
-Characters/Mage/*.fbx
 *.log
 Dungeons/Saved/Logs/Dungeons.log
 Dungeons/Saved/Logs/Dungeons.log
@@ -12,3 +6,9 @@ Dungeons/Content/Weapon_Pack/*
 *.log
 Dungeons/Content/Weapons_Kit_BuiltData.uasset
 Dungeons/Content/InfinityBladeWeapons/*
+**Charaters
+Charaters/Brawler/*.fbx
+Charaters/Mage/*.fbx
+Charaters/Healer/*.fbx
+Charaters/Marksman/*.fbx
+**SandBox
